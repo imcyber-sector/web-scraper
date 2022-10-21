@@ -1,0 +1,18 @@
+body {
+    background-color: #222;
+    color: #ddd;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 4em;
+  }
+  
+  input[type=text], label {
+    margin-bottom: 15px;
+  }
+
+  input[type=text] {
+    width: 250px;
+  }
