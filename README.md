@@ -15,8 +15,10 @@ Steps to setup :
     
 Using the scraper:
 (it's configured just for one website for now)
--> open browser and go to url : localhost:3000
--> you will find the link already in the input box. click on submit button
--> check your command prompt/terminal, you will find it working there
--> after the data scraping is done then you will find the file "user.xls" in the same directory as of the project
--> you will see message "Scraping coompleted" in the browser once the scraping will be completed.
+# open browser and go to url : localhost:3000
+# you will find the link already in the input box. click on submit button
+# check your command prompt/terminal, you will find it working there
+# after the data scraping is done then you will find the file "user.xls" in the same directory as of the project
+# you will see message "Scraping coompleted" in the browser once the scraping will be completed.
+
+# right now there is condition so that the scrapper will only scrap intial 300 data. This is done just to not load the server. Removing the condition will make it fetch all the data 
